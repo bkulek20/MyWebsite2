@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How to Use Jekyll for GitHub Pages?"
 date:   2025-05-07 02:46:48 +0300
 categories: jekyll update
 ---
